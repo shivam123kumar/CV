@@ -48,13 +48,15 @@ hr{
 .code-img{
     width: 25%;
 /*     float: left; */
-    margin-right: 20px;
-    margin-bottom: 20px;
+/*     margin-right: 20px;
+    margin-bottom: 20px; */
+   margin:auto;
 }
 .code-img2{
     width: 25%;
+   margin:auto
 /*     float:right; */
-    margin-left: 20px;
+/*     margin-left: 20px; */
 }
 .middle-container{
    
